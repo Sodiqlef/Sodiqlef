@@ -7,7 +7,7 @@ Full stack web developer
 I started coding in 2019 and I'm specialized in backend development though, i use front end framework like ReactJS like a pro!... My backend go-to are python and nodeJS
 
 *   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [My twitter](http://twitter.com/sodiqogundimu )
+*   🖥️ Connect with me on [Twitter](http://twitter.com/sodiqogundimu )
 *   ✉️  You can contact me at [ogundimusodiq0@yahoo.com](mailto:ogundimusodiq0@yahoo.com)
 *   🧠  I'm learning Mern stack
 *   🤝  I'm open to collaborating on Any frontend and backend project
