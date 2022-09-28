@@ -9,7 +9,7 @@ I started coding in 2019 and I'm specialized in backend development though, i us
 *   🌍  I'm based in Nigeria
 *   🖥️ Connect with me on [Twitter](http://twitter.com/sodiqogundimu )
 *   ✉️  You can contact me at [ogundimusodiq0@yahoo.com](mailto:ogundimusodiq0@yahoo.com)
-*   🧠  I'm learning Mern stack
+*   🧠  I'm learning Mern stack up to the advanced level
 *   🤝  I'm open to collaborating on Any frontend and backend project
 *   ⚡  I write codes in the week and watch football during weekends!... I deserve that rest😂### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
