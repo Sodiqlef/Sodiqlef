@@ -4,11 +4,11 @@ Hi 👋 My name is Sodiq Ogundimu
 Backend developer
 -----------------
 
-Detail-oriented and self-taught professional with excellent communication, interpersonal, and creative thinking skills. A backend web developer with great experience and programming knowledge.
+Detail-oriented and self-taught professional with excellent communication, interpersonal, and analytical thinking skills. A data analyst with strong experience in data cleaning, visualization, and deriving actionable insights.
 
 * ✉️  You can contact me at [ogundimusodiq0@yahoo.com](mailto:ogundimusodiq0@yahoo.com)
-* 🧠  I'm learning Core Solidity concepts
-* 🤝  I'm open to collaborating on Any Python and web3 projects
+* 🧠  I'm learning Core data and risk analysis concepts 
+* 🤝  I'm open to collaborating on Any Python and data analysis projects
 
 ### Skills
 
