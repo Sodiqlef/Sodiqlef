@@ -35,37 +35,11 @@ Detail-oriented and self-taught professional with excellent communication, inter
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="Pandas" />
 </a>
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36" alt="NumPy" />
-</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="Pandas" />
+   </a>
 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="Matplotlib" />
-</a>
 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36" alt="Seaborn" />
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="36" height="36" alt="Power BI" />
-</a>
-
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="36" height="36" alt="Tableau" />
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="36" height="36" alt="Excel" />
-</a>
-
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="Jupyter Notebook" />
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
-</a>
 
 
 </p>
