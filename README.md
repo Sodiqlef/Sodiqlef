@@ -31,13 +31,13 @@ Detail-oriented and self-taught professional with excellent communication, inter
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="Numpy" /> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="36" height="36" alt="Pandas" /> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" width="36" height="36" alt="Tableau" /> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" width="36" height="36" alt="Power BI" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="36" height="36" alt="Excel" /> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="36" height="36" alt="Numpy" /> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://netdata.cloud/img/pandas.png" width="36" height="36" alt="Pandas" /> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdebavwxuT-JUtogi3hq11-oRLktwtvII_A&s" width="36" height="36" alt="Tableau" /> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F193330%2Fpower-bi&psig=AOvVaw0t0QmFEjUwjW62tm0mtCLc&ust=1741169314709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDk1K-X8IsDFQAAAAAdAAAAABAE" width="36" height="36" alt="Power BI" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="36" height="36" alt="Excel" /> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="36" height="36" alt="Seaborn" /> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" /> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="36" height="36" alt="Matplotlib" /> </a>
  
 
 
