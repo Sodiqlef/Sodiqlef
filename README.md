@@ -31,13 +31,14 @@ Detail-oriented and self-taught professional with excellent communication, inter
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="Pandas" />
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="Pandas" />
-   </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="Numpy" /> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="36" height="36" alt="Pandas" /> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" width="36" height="36" alt="Tableau" /> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" width="36" height="36" alt="Power BI" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="36" height="36" alt="Excel" /> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36" alt="Seaborn" /> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo2_compressed.svg" width="36" height="36" alt="Matplotlib" /> </a>
+ 
 
 
 
