@@ -1,7 +1,7 @@
 Hi 👋 My name is Sodiq Ogundimu
 ===============================
 
-Backend developer
+Data Scientist
 -----------------
 
 Detail-oriented and self-taught professional with excellent communication, interpersonal, and analytical thinking skills. A data analyst with strong experience in data cleaning, visualization, and deriving actionable insights.
