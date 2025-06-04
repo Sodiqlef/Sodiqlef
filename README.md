@@ -6,7 +6,7 @@ Data Analyst/Scientist
 
 Detail-oriented and self-taught professional with excellent communication, interpersonal, and analytical thinking skills. A data analyst with strong experience in data cleaning, visualization, and deriving actionable insights.
 
-* ✉️  You can contact me at [ogundimusodiq0@yahoo.com](mailto:ogundimusodiq0@yahoo.com)
+* ✉️  You can contact me at [ogundimusodiq0@yahoo.com](mailto:ogundimusodiq0@gmail.com)
 * 🧠  I'm learning Core data and risk analysis concepts 
 * 🤝  I'm open to collaborating on Any Python and data analysis projects
 
